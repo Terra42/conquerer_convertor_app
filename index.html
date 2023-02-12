@@ -13,10 +13,19 @@
     <form id="calculator">
       <label for="activity">Activity</label>
       <input type="text" name="activity" id="activity" />
-
+      <br />
+      <br />
       <label for="time">Time</label>
       <input type="number" name="time" id="time" />
-
+      <br />
+      <br />
+      <label for="units">Choose unit (miles/km):</label>
+      <select name="units" id="units">
+        <option value="km">Km</option>
+        <option value="miles">Miles</option>
+      </select>
+      <br />
+      <br />
       <button type="submit">Calculate</button>
     </form>
     <div id="result"></div>
