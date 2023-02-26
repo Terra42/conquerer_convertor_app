@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="cs">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>The Conqueror - Activity conversion app</title>
+  </head>
+  <body>
+    <div id="app">
+      <h1>The Conqueror - Activity conversion app</h1>
+      <div id="result"></div>
+      <div class="row">
+        <form id="form" autocomplete="off" class="col s12">
+        <!-- Activity  -->
+          <div class="row">
+            <div class="input-field col s12">
+              <input type="text" id="activity" class="autocomplete" />
+              <label for="activity">Activity:</label>
+            </div>
+          </div>
+        <!-- Time  -->
+          <div class="row">
+            <div class="input-field col s12">
+              <input id="time" type="number" class="validate">
+              <label for="time">Time</label>
+            </div>
+          </div>
+        </div>
+        <!-- Units -->
+        <div class="row">
+          <p>Choose a unit (km/miles):</p>
+          <div class="switch">
+            <label>
+            Km
+              <input type="checkbox" id="units">
+              <span class="lever"></span>
+            Miles
+            </label>
+          </div>
+        </div>
+
+        <!-- Submit  -->
+          <button
+            class="btn waves-effect waves-light"
+            type="submit"
+            name="action"
+            id="button"
+          >
+          Calculate
+          <i class="material-icons right">send</i>
+        </form>
+      </div>
+
+    </div>
+  </body>
+</html>

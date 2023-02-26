@@ -1,0 +1,444 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "name": "Aerobics, low intensity",
+      "distance": 0.1
+    },
+    {
+      "id": 1,
+      "name": "Aerobics, high intensity",
+      "distance": 0.15
+    },
+    {
+      "id": 2,
+      "name": "Aerobics, step",
+      "distance": 0.12
+    },
+    {
+      "id": 3,
+      "name": "Badminton",
+      "distance": 0.11
+    },
+    {
+      "id": 4,
+      "name": "Ballet dancing",
+      "distance": 0.1
+    },
+    {
+      "id": 5,
+      "name": "Baseball",
+      "distance": 0.1
+    },
+    {
+      "id": 6,
+      "name": "Basketball",
+      "distance": 0.1
+    },
+    {
+      "id": 7,
+      "name": "Bicycling, easy (8.7mi/h or 14km/h)",
+      "distance": 0.23
+    },
+    {
+      "id": 8,
+      "name": "Bicycling, moderate (15mi/h - 24km/h)",
+      "distance": 0.4
+    },
+    {
+      "id": 9,
+      "name": "Bicycling, vigorous (20mi/h - 32km/h)",
+      "distance": 0.53
+    },
+    {
+      "id": 10,
+      "name": "Bowling",
+      "distance": 0.06
+    },
+    {
+      "id": 11,
+      "name": "Boxing",
+      "distance": 0.18
+    },
+    {
+      "id": 12,
+      "name": "Calisthenics",
+      "distance": 0.09
+    },
+    {
+      "id": 13,
+      "name": "Canoeing",
+      "distance": 0.07
+    },
+    {
+      "id": 14,
+      "name": "Cheerleading",
+      "distance": 0.08
+    },
+    {
+      "id": 15,
+      "name": "Circuit training (squats, lunges, pushups, burpees, situps etc)",
+      "distance": 0.16
+    },
+    {
+      "id": 16,
+      "name": "Climbing, indoor/outdoor",
+      "distance": 0.22
+    },
+    {
+      "id": 17,
+      "name": "Croquet",
+      "distance": 0.06
+    },
+    {
+      "id": 18,
+      "name": "CrossFit",
+      "distance": 0.2
+    },
+    {
+      "id": 19,
+      "name": "Dancing",
+      "distance": 0.09
+    },
+    {
+      "id": 20,
+      "name": "Elliptical trainer",
+      "distance": 0.16
+    },
+    {
+      "id": 21,
+      "name": "Fencing",
+      "distance": 0.15
+    },
+    {
+      "id": 22,
+      "name": "Fishing",
+      "distance": 0.07
+    },
+    {
+      "id": 23,
+      "name": "Football/soccer",
+      "distance": 0.16
+    },
+    {
+      "id": 24,
+      "name": "Gardening / yard work",
+      "distance": 0.06
+    },
+    {
+      "id": 25,
+      "name": "Golf (carrying clubs)",
+      "distance": 0.09
+    },
+    {
+      "id": 26,
+      "name": "Grocery shopping",
+      "distance": 0.05
+    },
+    {
+      "id": 27,
+      "name": "Gymnastics",
+      "distance": 0.1
+    },
+    {
+      "id": 28,
+      "name": "Handball",
+      "distance": 0.28
+    },
+    {
+      "id": 29,
+      "name": "HIIT",
+      "distance": 0.2
+    },
+    {
+      "id": 30,
+      "name": "Hiking / orienteering",
+      "distance": 0.19
+    },
+    {
+      "id": 31,
+      "name": "Hockey, field and ice",
+      "distance": 0.19
+    },
+    {
+      "id": 32,
+      "name": "Horseback riding",
+      "distance": 0.07
+    },
+    {
+      "id": 33,
+      "name": "Housework",
+      "distance": 0.06
+    },
+    {
+      "id": 34,
+      "name": "Ice skating",
+      "distance": 0.07
+    },
+    {
+      "id": 35,
+      "name": "In-line skating/Rollerblading",
+      "distance": 0.15
+    },
+    {
+      "id": 36,
+      "name": "Jumping rope (skipping), fast",
+      "distance": 0.24
+    },
+    {
+      "id": 37,
+      "name": "Jumping rope (skipping), moderate",
+      "distance": 0.2
+    },
+    {
+      "id": 38,
+      "name": "Kayaking",
+      "distance": 0.12
+    },
+    {
+      "id": 39,
+      "name": "Kickboxing / MMA",
+      "distance": 0.23
+    },
+    {
+      "id": 40,
+      "name": "Lacrosse",
+      "distance": 0.19
+    },
+    {
+      "id": 41,
+      "name": "Martial Arts",
+      "distance": 0.19
+    },
+    {
+      "id": 42,
+      "name": "Mowing lawn",
+      "distance": 0.1
+    },
+    {
+      "id": 43,
+      "name": "Pilates",
+      "distance": 0.07
+    },
+    {
+      "id": 44,
+      "name": "Punching bag",
+      "distance": 0.14
+    },
+    {
+      "id": 45,
+      "name": "Raking lawn/leaves",
+      "distance": 0.1
+    },
+    {
+      "id": 46,
+      "name": "Racquetball",
+      "distance": 0.15
+    },
+    {
+      "id": 47,
+      "name": "Rowing",
+      "distance": 0.12
+    },
+    {
+      "id": 48,
+      "name": "Rowing machine",
+      "distance": 0.17
+    },
+    {
+      "id": 49,
+      "name": "Rugby",
+      "distance": 0.24
+    },
+    {
+      "id": 50,
+      "name": "Running, 12min/mi = 7min/km",
+      "distance": 0.14
+    },
+    {
+      "id": 51,
+      "name": "Running, 10min/mi = 5.35min/km",
+      "distance": 0.18
+    },
+    {
+      "id": 52,
+      "name": "Running, 8min/mi = 4.28min/km",
+      "distance": 0.22
+    },
+    {
+      "id": 53,
+      "name": "Sailing, boat and board",
+      "distance": 0.07
+    },
+    {
+      "id": 54,
+      "name": "Shoveling snow",
+      "distance": 0.12
+    },
+    {
+      "id": 55,
+      "name": "Skateboarding",
+      "distance": 0.08
+    },
+    {
+      "id": 56,
+      "name": "Skiing, light/moderate",
+      "distance": 0.09
+    },
+    {
+      "id": 57,
+      "name": "Skiing, cross-country",
+      "distance": 0.09
+    },
+    {
+      "id": 58,
+      "name": "Sledding",
+      "distance": 0.13
+    },
+    {
+      "id": 59,
+      "name": "Snowboarding/snowshoeing",
+      "distance": 0.15
+    },
+    {
+      "id": 60,
+      "name": "Snowmobiling",
+      "distance": 0.09
+    },
+    {
+      "id": 61,
+      "name": "Softball",
+      "distance": 0.12
+    },
+    {
+      "id": 62,
+      "name": "Spinning",
+      "distance": 0.16
+    },
+    {
+      "id": 63,
+      "name": "Squash",
+      "distance": 0.28
+    },
+    {
+      "id": 64,
+      "name": "Stair climbing, machine",
+      "distance": 0.16
+    },
+    {
+      "id": 65,
+      "name": "Stair climbing, down stairs",
+      "distance": 0.06
+    },
+    {
+      "id": 66,
+      "name": "Stair climbing, up stairs",
+      "distance": 0.15
+    },
+    {
+      "id": 67,
+      "name": "Surfing",
+      "distance": 0.07
+    },
+    {
+      "id": 68,
+      "name": "Swimming, butterfly",
+      "distance": 0.22
+    },
+    {
+      "id": 69,
+      "name": "Swimming, freestyle/breaststroke",
+      "distance": 0.15
+    },
+    {
+      "id": 70,
+      "name": "Swimming, treading/leisure",
+      "distance": 0.09
+    },
+    {
+      "id": 71,
+      "name": "Table tennis",
+      "distance": 0.1
+    },
+    {
+      "id": 72,
+      "name": "Tae Bo",
+      "distance": 0.2
+    },
+    {
+      "id": 73,
+      "name": "Tai Chi",
+      "distance": 0.03
+    },
+    {
+      "id": 74,
+      "name": "Tennis",
+      "distance": 0.16
+    },
+    {
+      "id": 75,
+      "name": "Trampoline",
+      "distance": 0.07
+    },
+    {
+      "id": 76,
+      "name": "Volleyball",
+      "distance": 0.07
+    },
+    {
+      "id": 77,
+      "name": "Walking, stroll",
+      "distance": 0.05
+    },
+    {
+      "id": 78,
+      "name": "Walking, average",
+      "distance": 0.07
+    },
+    {
+      "id": 79,
+      "name": "Walking, power",
+      "distance": 0.13
+    },
+    {
+      "id": 80,
+      "name": "Washing a car",
+      "distance": 0.06
+    },
+    {
+      "id": 81,
+      "name": "Water aerobics",
+      "distance": 0.09
+    },
+    {
+      "id": 82,
+      "name": "Water polo",
+      "distance": 0.24
+    },
+    {
+      "id": 83,
+      "name": "Water skiing",
+      "distance": 0.12
+    },
+    {
+      "id": 84,
+      "name": "Weight lifting, light",
+      "distance": 0.05
+    },
+    {
+      "id": 85,
+      "name": "Weight lifting, heavy",
+      "distance": 0.14
+    },
+    {
+      "id": 86,
+      "name": "Wrestling",
+      "distance": 0.12
+    },
+    {
+      "id": 87,
+      "name": "Yoga",
+      "distance": 0.04
+    }
+  ]
+}
